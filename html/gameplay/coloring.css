@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Ubuntu&family=Zen+Antique&display=swap');
+
+
+body {
+  background-color: #6B7FD7
+}
+
+article {
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 5px;
+}
+
+aside {
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 5px;
+}
+
+h2 {
+  font-family: "Anton", sans-serif;
+  color: black;
+}
+
+a {
+  font-family: "Zen Antique", serif;
+}

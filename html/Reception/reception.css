@@ -1,0 +1,25 @@
+h3{
+  font-family: 'Anton', sans-serif;
+  color: black;
+}
+a{
+  font-family: 'Zen Antique', serif;
+}
+
+.row{
+  background-color:#6B7FD7;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.mainContent{
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Sa{
+  background-color:#BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+}
+.footer{
+  font-family: 'IBM Plex Sans', sans-serif;
+}

@@ -1,0 +1,51 @@
+/* Importing fonts from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Sans&family=Ubuntu&family=Zen+Antique&display=swap');
+
+body{
+  background-color: #6B7FD7;
+}
+
+nav{
+  font-family: 'Zen Antique', serif;
+}
+
+article{
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 5px;
+}
+
+h2{
+  font-family: 'Anton', sans-serif;
+}
+
+aside{
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 5px;
+}
+
+.happySection{
+  background-color: #BCEDF6;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 5px;
+}
+
+.card{
+  background-color: #DDFBD2;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+footer{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+footer a{
+  font-family: 'Zen Antique', serif;
+  text-decoration: none;
+}
+blockquote{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  background-color: #4C2A85;
+}
